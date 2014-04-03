@@ -1,3 +1,6 @@
+*.iws
+*.iml
+*.ipr
 build/
 doc/
 release/
